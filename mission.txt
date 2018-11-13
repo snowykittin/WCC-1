@@ -1,0 +1,3 @@
+To create a student-focused student-driven website which highlights the programs and clubs available to students and to help promote the Walker Career Center.
+
+Please use the various branches to make and add changes. Thank you.
